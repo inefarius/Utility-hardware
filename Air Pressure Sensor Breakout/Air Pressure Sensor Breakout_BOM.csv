@@ -1,0 +1,5 @@
+Qty-1,Part References,Value,Package,Mfg Part Num,Mfg Name,VID,Vendor Part Num,Description,Type,Tolerance,Voltage Rating,Package,Value,Cost,Category,XREF,,,,,,
+1,SV1,0,MA04-1,9-146274-0-20,TE Connectivity,DK,A34259-20-ND,Header, Male pin," .1"""" 1-row", 20 pos, breakable (Long Pins),Connector,(1.86)x4,*,*,*,REF91,*,*,,
+2,"C1, C8",0.10uF,C0603,C1608X7R1E104K080AA,TDK,DK,445-1316-1-ND,Capacitor, Ceramic, .1uF 25V 10% 0603 X7R,Capacitor,10%,25 V,"603, Price: ($0.1)",0.1 uF,0.011,Passives,REF6,,,,
+2,"C2, C7",2.2uF,C0603,GRM188R61E225KA12D,Murata,NW,13T1193,Capacitor, Ceramic, 2.2UF,10%, 25V,603," X5R ,Price: ($0.093)",Capacitor,10%,25V,603,2.2 uF,0.107,Passives,REF21
+2,"U$1, U$2",MPXA4250A6CU/C6T1,MPXA4250AC6U/C6T1,MPXA4250AC6U/C6T1,Freescale,DK,MPXA4250AC6U-ND,PRESSURE SENS, 36.3PSI, MAX 8-SOP,Air Pressure Sensor,*,4.85V~5.35V,"482A-01, Price:($16.37)",16.37,ICs,*,*,,,,
