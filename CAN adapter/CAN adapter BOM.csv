@@ -1,0 +1,6 @@
+Qty,Description,Category,Manufacturer,Mfg part,Vendor,Vendor part,Unit cost,Designator
+1,"DE-9 (DB-9) receptacle, 9 positions, PCB mount, right-angle",Connectors,TE Connectivity,1734354-1,DK,A35107-ND,1.43,X7
+1,Green LED,LEDs,Osram,LGQ971,Newark,05M0493,0.054,LED1
+1,"Cylindrical power connector, barrel jack, 5.5x2.1mm, PCB mount, right angle",Connectors,Cui,PJ-002A,DK,CP-002A-ND,0.93,X2
+1,"Resistor, 680 ohm, 0.5W, 5%, 1210",Passives,Stackpole Electronics,RMCF1210JT680R,DK,RMCF1210JT680RCT-ND,0.1,R1
+3,"Micro-Fit header, 6pos, right-angle, through-hole, plastic peg retention, gold",Connectors,Molex,43045-0601,Newark,56H9487,1.45,"X1, X5, X6"
